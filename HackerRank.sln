@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birthday-cake-candles", "bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "time-conversion", "time-conversion\time-conversion.csproj", "{269A580E-8546-46AC-8633-1B62EBC62353}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staircase", "staircase\staircase.csproj", "{EB43BBAE-24B5-4BF0-A18B-4A68B3F62F02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{269A580E-8546-46AC-8633-1B62EBC62353}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{269A580E-8546-46AC-8633-1B62EBC62353}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{269A580E-8546-46AC-8633-1B62EBC62353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB43BBAE-24B5-4BF0-A18B-4A68B3F62F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB43BBAE-24B5-4BF0-A18B-4A68B3F62F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB43BBAE-24B5-4BF0-A18B-4A68B3F62F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB43BBAE-24B5-4BF0-A18B-4A68B3F62F02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
