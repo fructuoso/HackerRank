@@ -15,8 +15,6 @@
 |staircase|Easy|[Desafio](https://www.hackerrank.com/challenges/staircase/problem)|[Solução](/staircase)|
 |time-conversion|Easy|[Desafio](https://www.hackerrank.com/challenges/time-conversion/problem)|[Solução](/time-conversion)|
 
-
-
 ### Data Structures
 
 | Desafio | Complexidade | | |
@@ -28,3 +26,4 @@
 |print-the-elements-of-a-linked-list|Easy|[Desafio](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)|[Solução](/print-the-elements-of-a-linked-list)|
 |queries-with-fixed-length|Hard|[Desafio](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|[Solução](/queries-with-fixed-length)|
 |reverse-a-linked-list|Easy|[Desafio](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)|[Solução](/reverse-a-linked-list)|
+|2d-array|Easy|[Desafio](https://www.hackerrank.com/challenges/2d-array/problem)|[Solução](/2d-array)|
