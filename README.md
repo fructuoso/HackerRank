@@ -15,6 +15,7 @@
 |staircase|Easy|[Desafio](https://www.hackerrank.com/challenges/staircase/problem)|[Solução](/staircase)|
 |time-conversion|Easy|[Desafio](https://www.hackerrank.com/challenges/time-conversion/problem)|[Solução](/time-conversion)|
 |climbing-the-leaderboard|Medium|[Desafio](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[Solução](/climbing-the-leaderboard)|
+|array-left-rotation|Easy|[Desafio](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[Solução](/array-left-rotation)|
 
 ### Data Structures
 
