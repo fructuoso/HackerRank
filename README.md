@@ -1,3 +1,5 @@
+## .NET
+
 ### Algorithms
 
 | Desafio | Complexidade | | |
@@ -29,3 +31,9 @@
 |queries-with-fixed-length|Hard|[Desafio](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|[Solução](/queries-with-fixed-length)|
 |reverse-a-linked-list|Easy|[Desafio](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)|[Solução](/reverse-a-linked-list)|
 |2d-array|Easy|[Desafio](https://www.hackerrank.com/challenges/2d-array/problem)|[Solução](/2d-array)|
+
+## Python
+
+| Desafio | Complexidade | | |
+|-|-|-|-|
+|nested-list|Easy|[Desafio](https://www.hackerrank.com/challenges/nested-list/problem)|[Solução](/nested-list/)|
