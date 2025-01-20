@@ -37,3 +37,4 @@
 | Desafio | Complexidade | | |
 |-|-|-|-|
 |nested-list|Easy|[Desafio](https://www.hackerrank.com/challenges/nested-list/problem)|[Solução](/nested-list/)|
+|python-lists|Easy|[Desafio](https://www.hackerrank.com/challenges/python-lists/problem)|[Solução](/python-lists/)|
