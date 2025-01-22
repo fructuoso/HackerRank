@@ -40,3 +40,4 @@
 |python-lists|Easy|[Desafio](https://www.hackerrank.com/challenges/python-lists/problem)|[Solução](/python-lists/)|
 |python-tuples|Easy|[Desafio](https://www.hackerrank.com/challenges/python-tuples/problem)|[Solução](/python-tuples/)|
 |write-a-function|Easy|[Desafio](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solução](/write-a-function/)|
+|the-minion-game|Medium|[Desafio](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Solução](/the-minion-game/)|
