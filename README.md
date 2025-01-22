@@ -39,3 +39,4 @@
 |nested-list|Easy|[Desafio](https://www.hackerrank.com/challenges/nested-list/problem)|[Solução](/nested-list/)|
 |python-lists|Easy|[Desafio](https://www.hackerrank.com/challenges/python-lists/problem)|[Solução](/python-lists/)|
 |python-tuples|Easy|[Desafio](https://www.hackerrank.com/challenges/python-tuples/problem)|[Solução](/python-tuples/)|
+|write-a-function|Easy|[Desafio](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solução](/write-a-function/)|
