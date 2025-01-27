@@ -36,6 +36,7 @@
 
 | Desafio | Complexidade | | |
 |-|-|-|-|
+|py-hello-world|Easy|[Desafio](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Solução](/py-hello-world/)|
 |nested-list|Easy|[Desafio](https://www.hackerrank.com/challenges/nested-list/problem)|[Solução](/nested-list/)|
 |python-lists|Easy|[Desafio](https://www.hackerrank.com/challenges/python-lists/problem)|[Solução](/python-lists/)|
 |python-tuples|Easy|[Desafio](https://www.hackerrank.com/challenges/python-tuples/problem)|[Solução](/python-tuples/)|
