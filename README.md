@@ -44,3 +44,4 @@
 |the-minion-game|Medium|[Desafio](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Solução](/the-minion-game/)|
 |word-order|Medium|[Desafio](https://www.hackerrank.com/challenges/word-order/problem)|[Solução](/word-order/)|
 |most-commons|Medium|[Desafio](https://www.hackerrank.com/challenges/most-commons/problem)|[Solução](/most-commons/)|
+|py-if-else|Easy|[Desafio](https://www.hackerrank.com/challenges/py-if-else/problem)|[Solução](/py-if-else/)|
