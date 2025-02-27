@@ -1,3 +1,5 @@
+## .NET
+
 ### Algorithms
 
 | Desafio | Complexidade | | |
@@ -29,3 +31,17 @@
 |queries-with-fixed-length|Hard|[Desafio](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|[Solução](/queries-with-fixed-length)|
 |reverse-a-linked-list|Easy|[Desafio](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)|[Solução](/reverse-a-linked-list)|
 |2d-array|Easy|[Desafio](https://www.hackerrank.com/challenges/2d-array/problem)|[Solução](/2d-array)|
+
+## Python
+
+| Desafio | Complexidade | | |
+|-|-|-|-|
+|py-hello-world|Easy|[Desafio](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Solução](/py-hello-world/)|
+|nested-list|Easy|[Desafio](https://www.hackerrank.com/challenges/nested-list/problem)|[Solução](/nested-list/)|
+|python-lists|Easy|[Desafio](https://www.hackerrank.com/challenges/python-lists/problem)|[Solução](/python-lists/)|
+|python-tuples|Easy|[Desafio](https://www.hackerrank.com/challenges/python-tuples/problem)|[Solução](/python-tuples/)|
+|write-a-function|Easy|[Desafio](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solução](/write-a-function/)|
+|the-minion-game|Medium|[Desafio](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Solução](/the-minion-game/)|
+|word-order|Medium|[Desafio](https://www.hackerrank.com/challenges/word-order/problem)|[Solução](/word-order/)|
+|most-commons|Medium|[Desafio](https://www.hackerrank.com/challenges/most-commons/problem)|[Solução](/most-commons/)|
+|py-if-else|Easy|[Desafio](https://www.hackerrank.com/challenges/py-if-else/problem)|[Solução](/py-if-else/)|
